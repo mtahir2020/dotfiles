@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mustafatahir@hotmail.co.uk
+	name = Mustafa Tahir
